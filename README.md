@@ -8,3 +8,5 @@ Then, I accepted Product Id and Quantity of product user want to purchase.
 Then, updating the inventory after every purchase. 
 Then,Creating a sales.json file which consist of all sales that has happened. 
 At last, I have printed all the sales that has happened.
+# LinkedIn Profile
+  https://www.linkedin.com/in/shivanshu-nigam-730106210
